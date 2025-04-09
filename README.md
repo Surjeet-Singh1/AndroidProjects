@@ -71,3 +71,8 @@
 
 
 ---
+## 📸 Screenshots
+
+| Splash | Login | Cart | Checkout |
+|--------|-------|------|----------|
+| ![](screenshot/splash_screen.png) | ![](screenshot/login_screen.png) | ![](screenshot/cart_screen.png) | ![](screenshot/checkout_screen.png) |
