@@ -46,7 +46,20 @@
 | IDE           | Android Studio                          |
 
 ---
+## Splash_Screen
+![](https://github.com/Surjeet-Singh1/AndroidProjects/blob/main/screenshot/splashScreen.jpg)
+## Entry_Screen
+![](https://github.com/Surjeet-Singh1/AndroidProjects/blob/main/screenshot/entryView.jpg)
+## Login_Screen
+![](https://github.com/Surjeet-Singh1/AndroidProjects/blob/main/screenshot/loginScreen.jpg)
+## Sign_Up
+![](https://github.com/Surjeet-Singh1/AndroidProjects/blob/main/screenshot/authontication.jpg)
 
+## home_Section
+![](https://github.com/Surjeet-Singh1/AndroidProjects/blob/main/screenshot/homeScreen.jpg)
+
+## cart_Section
+![](https://github.com/Surjeet-Singh1/AndroidProjects/blob/main/screenshot/CartSection.jpg)
 ## 🧾 Manifest Highlights
 
 ```xml
@@ -71,8 +84,3 @@
 
 
 ---
-## 📸 Screenshots
-
-| Splash | Login | Cart | Checkout |
-|--------|-------|------|----------|
-| ![](screenshot/splash_screen.png) | ![](screenshot/login_screen.png) | ![](screenshot/cart_screen.png) | ![](screenshot/checkout_screen.png) |
