@@ -1,4 +1,4 @@
-# 🍽️ Waves of Food - Android Food Ordering App
+SmartCity - Android Resouce Managment App
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20With-Kotlin-blue?style=for-the-badge&logo=kotlin"/>
@@ -10,7 +10,7 @@
 
 ## 📱 Overview
 
-**Waves of Food** is a fully functional Android app developed using **Kotlin**. It allows users to browse food items, manage their cart, and proceed to checkout—all within a clean and modern UI. This project demonstrates mastery of:
+**SmartCity** is a fully functional Android app developed using **Kotlin**. It allows users to browse various tranportation, manage their cart, and proceed to checkout—all within a clean and modern UI. This project demonstrates mastery of:
 
 - ViewBinding
 - RecyclerView with custom adapter
@@ -47,40 +47,46 @@
 
 ---
 ## Splash_Screen
-![](https://github.com/Surjeet-Singh1/AndroidProjects/blob/main/screenshot/splashScreen.jpg)
+![image](https://github.com/user-attachments/assets/be728726-d9a3-490d-92e3-829d158d4023)
+
 ## Entry_Screen
-![](https://github.com/Surjeet-Singh1/AndroidProjects/blob/main/screenshot/entryView.jpg)
+![image](https://github.com/user-attachments/assets/bba0916c-1163-4935-a38b-b98b062e1719)
+
+
 ## Login_Screen
-![](https://github.com/Surjeet-Singh1/AndroidProjects/blob/main/screenshot/loginScreen.jpg)
+![image](https://github.com/user-attachments/assets/63abe334-db1b-4a6d-9893-8208880379af)
+
+
 ## Sign_Up
-![](https://github.com/Surjeet-Singh1/AndroidProjects/blob/main/screenshot/authontication.jpg)
+![image](https://github.com/user-attachments/assets/7a8f4bd5-ce67-41bc-afad-1716fc350ea4)
+
 
 ## home_Section
-![](https://github.com/Surjeet-Singh1/AndroidProjects/blob/main/screenshot/homeScreen.jpg)
+![image](https://github.com/user-attachments/assets/a3cb7d23-40f0-4e2c-b00b-2691a0ef861e)
+
 
 ## cart_Section
-![](https://github.com/Surjeet-Singh1/AndroidProjects/blob/main/screenshot/CartSection.jpg)
-## 🧾 Manifest Highlights
-
-```xml
-<application
-    android:theme="@style/Theme.WavesOfFood"
-    android:icon="@mipmap/ic_launcher"
-    android:label="@string/app_name">
-    
-    <activity android:name=".ChooseLocationActivity" android:exported="true" />
-    <activity android:name=".SigninActivity" android:exported="false" />
-    <activity android:name=".LoginActivity" android:exported="false" />
-    <activity android:name=".StartActivity" android:exported="false" />
-    <activity android:name=".SplashScreen" android:exported="true" />
-    
-    <activity android:name=".MainActivity" android:exported="true">
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter>
-    </activity>
-</application>
+![image](https://github.com/user-attachments/assets/9ab951e3-a562-44b2-a8d0-c1aac48487b6)
 
 
----
+## search_section
+![image](https://github.com/user-attachments/assets/d5d7132e-0251-4e60-8e0b-28b1d8c8bcb6)
+
+
+## Recent_Activity
+![image](https://github.com/user-attachments/assets/d266fe89-db6b-48c2-880a-2be0ce58b722)
+
+## Profile_section
+![image](https://github.com/user-attachments/assets/8a2b2221-ab08-4f99-953a-ef51744355ff)
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repository and submit a pull request.
+
+📧 Contact
+Have questions or suggestions? Reach out at rachitt2107@gmail.com or connect on LinkedIn (https://www.linkedin.com/in/surjeet-singh-9bb3a920b/).
+
+⭐ Show Your Support
+If you found this project useful or inspiring, please consider giving it a star ⭐ at the top of the page. It helps others discover it too!
+
+
